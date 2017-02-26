@@ -5,7 +5,7 @@ categories:
 - 资讯推送
 - 招募信息
 tags: 科协学习部
-top: 3
+top: 2
 ---
 > ### Mechinfo期待你的加入！
 
